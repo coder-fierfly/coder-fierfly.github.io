@@ -21,8 +21,8 @@ h1, h2 {
 
 .qr-code-container {
     background-color: var(--white);
-    width: 40vh;
-    height: 65vh;
+    width: 35vh;
+    height: 55vh;
     border-radius: 20px;
     padding: 20px;
     display: flex;
@@ -42,15 +42,15 @@ h1, h2 {
 }
 
 .titles-container h1 {
-    font-size: clamp(1.1rem, 4vw, 1.9rem);
-    font-weight: normal;
+    font-size: clamp(1rem, 4vw, 1.5rem);
+    font-weight: bold;
     text-align: center;
     color: var(--slate-900);
     margin: 0 0 10px 0;
 }
 
 .titles-container h2 {
-    font-size: clamp(1rem, 3vw, 1.3rem);
+    font-size: clamp(0.6rem, 3vw, 1.1rem);
     font-weight: normal;
     text-align: center;
     color: var(--slate-500);
