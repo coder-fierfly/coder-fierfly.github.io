@@ -21,8 +21,8 @@ h1, h2 {
 
 .qr-code-container {
     background-color: var(--white);
-    width: 35vh;
-    height: 55vh;
+    width: 30vh;
+    height: 47vh;
     border-radius: 20px;
     padding: 20px;
     display: flex;
@@ -50,7 +50,7 @@ h1, h2 {
 }
 
 .titles-container h2 {
-    font-size: clamp(0.6rem, 3vw, 1.1rem);
+    font-size: clamp(0.6rem, 3vw, 1rem);
     font-weight: normal;
     text-align: center;
     color: var(--slate-500);
